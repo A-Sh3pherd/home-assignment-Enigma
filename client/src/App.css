@@ -1,0 +1,8 @@
+html,
+body {
+  background-color: black;
+}
+
+.toggled {
+  background-color: rgba(17, 12, 1, 255);
+}

@@ -1,0 +1,157 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Kraken markets",
+      "symbol": "XRP",
+      "isToggled": false,
+      "childCurrencies": [
+        {
+          "id": 1,
+          "name": "XRPAUD",
+          "currentValue": 1.55,
+          "percentage": {"value": 0.57, "status": "DOWN"},
+          "amountOfStars": 121800,
+          "isToggled": false
+        },
+        {
+          "id": 2,
+          "name": "XRPBTC",
+          "currentValue": 0.2354,
+          "percentage": {"value": 0.43, "status": "UP"},
+          "amountOfStars": 824600,
+          "isToggled": false
+        },
+        {
+          "id": 3,
+          "name": "XRPCAD",
+          "currentValue": 1.43,
+          "percentage": {"value": 0.35, "status": "DOWN"},
+          "amountOfStars": 222300,
+          "isToggled": false
+        },
+        {
+          "id": 4,
+          "name": "XRPETH",
+          "currentValue": 0.003566,
+          "percentage": {"value": 0.39, "status": "UP"},
+          "amountOfStars": 230800,
+          "isToggled": false
+        },
+        {
+          "id": 5,
+          "name": "XRPEUR",
+          "currentValue": 0.956,
+          "percentage": {"value": 0.57, "status": "UP"},
+          "amountOfStars": 600450000,
+          "isToggled": false
+        },
+        {
+          "id": 6,
+          "name": "XRPGBP",
+          "currentValue": 0.8176,
+          "percentage": {"value": 0.65, "status": "DOWN"},
+          "amountOfStars": 976100,
+          "isToggled": false
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "name": "BTC markets",
+      "symbol": "BCH",
+      "isToggled": false,
+      "childCurrencies": [
+        {
+          "id": 7,
+          "name": "BCHAUD",
+          "currentValue": 929.99,
+          "percentage": {"value": 0.05, "status": "DOWN"},
+          "amountOfStars": 7580,
+          "isToggled": false
+        },
+        {
+          "id": 8,
+          "name": "BCHBTC",
+          "currentValue": 0.01347,
+          "percentage": {"value": 3.37, "status": "DOWN"},
+          "amountOfStars": 1550061,
+          "isToggled": false
+        },
+        {
+          "id": 9,
+          "name": "BCHETH",
+          "currentValue": 0.204,
+          "percentage": {"value": 3.32, "status": "DOWN"},
+          "amountOfStars": 121800,
+          "isToggled": false
+        },
+        {
+          "id": 10,
+          "name": "BCHEUR",
+          "currentValue": 548.56,
+          "percentage": {"value": 4.06, "status": "DOWN"},
+          "amountOfStars": 1000227,
+          "isToggled": false
+        },
+        {
+          "id": 11,
+          "name": "BCHGBP",
+          "currentValue": 466.7,
+          "percentage": {"value": 4.82, "status": "DOWN"},
+          "amountOfStars": 965,
+          "isToggled": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Watch list",
+      "symbol": "LTC",
+      "isToggled": false,
+      "childCurrencies": [
+        {
+          "id": 12,
+          "name": "LTCAUD",
+          "currentValue": 236.88,
+          "percentage": {"value": 3.63, "status": "DOWN"},
+          "amountOfStars": 6166,
+          "isToggled": false
+        },
+        {
+          "id": 13,
+          "name": "LTCBTC",
+          "currentValue": 0.003587,
+          "percentage": {"value": 2045, "status": "DOWN"},
+          "amountOfStars": 25876000,
+          "isToggled": false
+        },
+        {
+          "id": 14,
+          "name": "LTCETH",
+          "currentValue": 0.05441,
+          "percentage": {"value": 2.45, "status": "DOWN"},
+          "amountOfStars": 25870000,
+          "isToggled": false
+        },
+        {
+          "id": 15,
+          "name": "LTCEUR",
+          "currentValue": 145.99,
+          "percentage": {"value": 3.0, "status": "DOWN"},
+          "amountOfStars": 9364000,
+          "isToggled": false
+        },
+        {
+          "id": 16,
+          "name": "LTCGBP",
+          "currentValue": 124.91,
+          "percentage": {"value": 3.05, "status": "DOWN"},
+          "amountOfStars": 261350,
+          "isToggled": false
+        }
+      ]
+    }
+  ]
+}
